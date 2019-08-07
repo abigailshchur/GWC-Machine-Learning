@@ -1,0 +1,101 @@
+﻿name,audience_score,audience_ratings,budget,box_office,genre,rating,is_fresh
+Black Panther,0.79,88211,200000000,1349000000,action,PG-13,yes
+Avengers: Infinity War,0.91,56255,400000000,2048000000,action,PG-13,yes
+Incredibles 2,0.85,17382,200000000,1242000000,animation,PG,yes
+Jurassic World: Fallen Kingdom,0.49,29109,170000000,1309000000,action,PG-13,no
+Deadpool 2,0.85,30641,110000000,785000000,action,R,yes
+Dr Seuss The Grinch,0.51,12411,75000000,511000000,animation,PG,no
+Jumanji: Welcome to the Jungle,0.87,38312,90000000,962000000,adventure,PG-13,yes
+Mission Impossible Fallout,0.88,14942,178000000,791000000,action,PG-13,yes
+Ant-Man and the Wasp,0.76,23289,162000000,622000000,action,PG-13,yes
+Solo: A Star Wars Story,0.64,41438,275000000,392000000,adventure,PG-13,yes
+Venom,0.81,38717,100000000,856000000,action,PG-13,no
+A Star is Born,0.8,18919,36000000,434000000,drama,R,yes
+Aquaman,0.75,33068,160000000,1148000000,action,PG-13,yes
+Bohemian Rhapsody,0.86,21779,52000000,903000000,drama,PG-13,yes
+A Quiet Place,0.83,21474,17000000,340000000,horror,PG-13,yes
+Ralph Breaks the Internet,0.65,7798,175000000,529000000,animation,PG,yes
+Crazy Rich Asians,0.76,11749,30000000,238000000,comedy,PG-13,yes
+Hotel Transylvania 3,0.48,3265,80000000,528000000,animation,PG,yes
+Halloween,0.7,8891,10000000,255000000,horror,R,yes
+Fantastic Beasts: The Crime of Grindelwald,0.56,14078,200000000,653000000,adventure,PG-13,no
+The Meg,0.43,6363,130000000,530000000,action,PG-13,no
+Ocean's 8,0.45,9669,70000000,297000000,action,PG-13,yes
+Mary Poppins Returns,0.66,6682,130000000,349000000,musical,PG,yes
+Ready Player One,0.77,24251,175000000,582000000,adventure,PG-13,yes
+Spider-Man: Into the Spiderverse,0.93,17554,90000000,375000000,animation,PG,yes
+The Greatest Showman,0.86,25210,84000000,434000000,musical,PG,no
+Mamma Mia: Here We Go Again!,0.66,438121,52000000,609000000,musical,PG-13,no
+The Nun,0.36,6514,22000000,365000000,horror,R,no
+Peter Rabbit,0.56,3252,50000000,351000000,adventure,PG,yes
+Creed II,0.81,4866,50000000,213000000,drama,PG-13,yes
+Star Wars Ep VIII,0.44,210149,31700000,1332000000,adventure,PG-13,yes
+The Equilizer 2,0.61,4487,62000000,190000000,action,R,no
+Rampage,0.73,9320,120000000,428000000,action,PG-13,yes
+A Wrinkle In Time,0.27,8533,103000000,132000000,adventure,PG,no
+Fifty Shades Freed,0.37,5586,55000000,371000000,drama,R,no
+Christopher Robin,0.83,5342,75000000,197000000,adventure,PG,yes
+I Can Only Imagine,0.91,3937,7000000,83000000,drama,PG,yes
+Smallfoot,0.63,1991,80000000,214000000,animation,PG,yes
+The Post,0.73,11958,50000000,179000000,drama,PG-13,yes
+Night School,0.38,2185,29000000,103000000,comedy,PG-13,no
+Bumblebee,0.74,8743,135000000,467000000,adventure,PG-13,yes
+The First Purge,0.28,2820,13000000,137000000,horror,R,no
+Game Night,0.77,9132,37000000,117000000,comedy,R,yes
+Book Club,0.53,1921,10000000,104000000,comedy,PG-13,no
+The House with a Clock in its Wall ,0.45,3243,42000000,131000000,adventure,PG,yes
+Skyscraper,0.64,6134,125000000,304000000,action,PG-13,no
+Insidious: The Last Key,0.53,5682,10000000,167000000,horror,PG-13,no
+Instant Family,0.82,2751,48000000,120000000,comedy,PG-13,yes
+The Mule,0.66,3366,50000000,172000000,drama,R,yes
+Blockers,0.5,4853,21000000,94000000,comedy,R,yes
+Pacific Rim: Uprising,0.39,32081,150000000,290000000,action,PG-13,no
+Tomb Raider,0.55,10376,94000000,274000000,action,PG-13,no
+Maze Runner: The Death Cure,0.59,16847,62000000,288000000,thriller,PG-13,no
+The Nutcracker and the Four Realms,0.34,2107,120000000,173000000,adventure,PG,no
+Tag,0.55,3728,28000000,78000000,comedy,R,no
+A Simple Favor,0.74,5830,20000000,97000000,thriller,R,yes
+Life of the Party,0.39,2023,30000000,65000000,comedy,PG-13,no
+The Predator,0.34,6539,88000000,160000000,action,R,no
+Overboard,0.56,2109,12000000,91000000,comedy,PG-13,no
+Sicario,0.64,4629,35000000,75000000,action,R,yes
+I Feel Pretty,0.34,4464,32000000,94000000,comedy,PG-13,no
+Blackkklansman,0.82,9806,15000000,93000000,thriller,R,yes
+The Shape of Water,0.72,24965,20000000,195000000,drama,R,yes
+Red Sparrow,0.49,7784,69000000,151000000,thriller,R,no
+Breaking In,0.31,957,6000000,51000000,thriller,PG-13,no
+Goosebumps 2,0.39,1179,35000000,93000000,horror,PG,no
+12 Strong,0.62,5016,35000000,67000000,drama,R,no
+Den of Thieves,0.62,4048,30000000,80000000,action,R,no
+First Man,0.66,8001,59000000,105000000,drama,PG-13,yes
+Hereditary,0.65,11288,10000000,79000000,horror,R,yes
+Acrimony,0.51,1429,20000000,46000000,thriller,R,no
+Sherlock Gnomes,0.35,1560,59000000,90000000,adventure,PG,no
+Uncle Drew,0.48,1505,18000000,46000000,comedy,PG-13,yes
+Widows,0.61,4764,42000000,75000000,thriller,R,yes
+Pitch Perfect 3,0.44,16697,45000000,185000000,comedy,PG-13,no
+Truth or Date,0.22,2553,3000000,95000000,thriller,PG-13,no
+Paddington 2,0.88,7774,40000000,227000000,adventure,PG,yes
+"Love, Simon",0.88,7291,17000000,66000000,drama,PG-13,yes
+Darkest Hour,0.82,13651,30000000,150000000,drama,PG-13,yes
+The Commuter,0.4,5105,40000000,119000000,action,PG-13,no
+The 15:17 to Paris,0.38,2826,30000000,57000000,drama,PG-13,no
+Mile 22,0.44,2536,50000000,66000000,action,R,no
+Alpha,0.7,3734,51000000,98000000,adventure,PG-13,yes
+Peppermint,0.72,2846,25000000,53000000,action,R,no
+Green Book,0.91,8682,23000000,320000000,comedy,PG-13,yes
+Death Wish,0.73,7725,30000000,34000000,action,R,no
+The Spy Who Dumped Me,0.58,3306,40000000,75000000,comedy,R,no
+Second Act,0.44,1007,16000000,72000000,comedy,PG-13,no
+Annihilation,0.66,12489,40000000,32000000,thriller,R,yes
+Isle of Dogs,0.87,8533,25000000,64000000,comedy,PG-13,yes
+Nobody's Fools,0.36,562,19000000,33000000,drama,R,no
+Adrift,0.65,2131,35000000,59000000,drama,PG-13,yes
+Ferdinand,0.5,6845,111000000,296000000,animation,PG,yes
+Robin Hood,0.41,3167,100000000,84000000,action,PG-13,no
+Super Troopers 2,0.66,3440,13000000,30000000,comedy,R,no
+Slender Man,0.18,2340,10000000,51000000,horror,PG-13,no
+"Three Billboards Outside Ebbing, Missouri",0.87,22101,12000000,159000000,comedy,R,yes
+Coco,0.94,26642,175000000,807000000,musical,PG,yes
+Teen Titans Go! To the Movies,0.71,3368,10000000,52000000,animation,PG,yes
+Hostiles,0.74,5217,39000000,29000000,adventure,R,yes
